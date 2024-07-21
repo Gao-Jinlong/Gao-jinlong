@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.S72curNx.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"journal/项目管理.md","filePath":"journal/项目管理.md","lastUpdated":1702695837000}'),r={name:"journal/项目管理.md"};function o(n,s,c,_,d,p){return a(),t("div")}const m=e(r,[["render",o]]);export{i as __pageData,m as default};
